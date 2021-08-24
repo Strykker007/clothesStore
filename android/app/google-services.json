@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "278608002548",
+    "firebase_url": "https://mariana-modas-d5501.firebaseio.com",
+    "project_id": "mariana-modas-d5501",
+    "storage_bucket": "mariana-modas-d5501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278608002548:android:09374b60500a6fee2d8da1",
+        "android_client_info": {
+          "package_name": "com.tlsys.marianamodas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278608002548-oc8gr43a2gr2qkhboe840jpqoch3anu6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQYZO-EEF_J-zU5d2UOgF0sP_5eOO9xt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278608002548-oc8gr43a2gr2qkhboe840jpqoch3anu6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278608002548-55nfm1fejdqoissd8j0hi20l8fv69d1v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tlsys.marianamodas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

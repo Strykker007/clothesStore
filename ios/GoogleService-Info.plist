@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>278608002548-55nfm1fejdqoissd8j0hi20l8fv69d1v.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.278608002548-55nfm1fejdqoissd8j0hi20l8fv69d1v</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD6g6277x97Az9KaNbGM8KUn3TytwBsRZ4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>278608002548</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tlsys.marianamodas</string>
+	<key>PROJECT_ID</key>
+	<string>mariana-modas-d5501</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mariana-modas-d5501.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:278608002548:ios:a48ef8d8a6a91ae72d8da1</string>
+	<key>DATABASE_URL</key>
+	<string>https://mariana-modas-d5501.firebaseio.com</string>
+</dict>
+</plist>
